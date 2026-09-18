@@ -93,6 +93,7 @@ fun CityListScreen(
                                 newCityName = ""
                                 newProvinceName = ""
                                 showAddCityFields = false
+                                selectedCity = null
 
                             } else {
                                 onAddCity(
